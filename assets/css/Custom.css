@@ -1,0 +1,183 @@
+#main > .post > article.onepage  {
+    width:100%;
+    text-align: left;
+    }
+   
+#main > .post > article.onepage p {
+    font-family: monospace;
+    line-height: 1.5;
+    padding: 10px;
+    text-align: left;
+    text-indent: 10px;
+}
+
+#main > .post > article.onepage a {
+	font-style: italic;
+    color: darkred;
+    }
+    
+#main > .post > article.onepage p img {
+		border: 0;
+		display: inline-block;
+		position: relative;
+		width:25%;
+		border-radius: 5px;
+	}
+
+
+#main > .post > article.onepageintro  {
+    width:100%;
+    text-align: left;
+    }
+   
+#main > .post > article.onepageintro p {
+    font-family: monospace;
+    line-height: 1.5;
+    padding: 10px;
+    text-align: left;
+    text-indent: 10px;
+}
+
+#main > .post > article.onepageintro a {
+	font-style: italic;
+    color: darkred;
+    }
+    
+#main > .post > article.onepageintro p img {
+		border: 0;
+		display: inline-block;
+		position: relative;
+		width:75%;
+		border-radius: 5px;
+	}
+#main > .post > article.onepageintro ul {
+    font-family: monospace;
+    padding:0px;
+    list-style-position: inside;
+    list-style-type: none;	
+    font-size: smaller;	
+    text-align: left;
+    }
+#main > .post > article.onepageintro li {
+    font-family: monospace;
+    font-size: small;		
+    padding:0px;
+    }
+#main > .post > article.onepageintro li img {
+	border: 0;
+	display: inline-block;
+	position: relative;
+	width:20%;
+	border-radius: 15px;
+}   
+      
+
+ 
+    
+#main > .posts > article.fourbyfour ul {
+    font-family: monospace;
+    padding:0px;
+    list-style-position: inside;
+    list-style-type: none;	
+    font-size: smaller;	
+    text-align: left;
+    }
+#main > .posts > article.fourbyfour li {
+    font-family: monospace;
+    font-size: small;		
+    padding:0px;
+    }
+#main > .posts > article.fourbyfour li img {
+	border: 0;
+	display: inline-block;
+	position: relative;
+	width:20%;
+	border-radius: 15px;
+}
+#main > .posts > article.fourbyfour img {
+		border: 0;
+		display: inline-block;
+		position: relative;
+		width:50%;
+		border-radius: 15px;
+}
+#main > .posts > article.fourbyfour p {
+    font-family: monospace;
+    font-size: small;		
+    padding:0px;
+}
+
+#main > .posts > article.fourbyfour li a {
+	font-style: italic;
+    color: darkred;
+}
+#main > .posts > article.fourbyfour h3 img {
+	border: 0;
+	display: inline-block;
+	position: relative;
+	width:90%;
+	border-radius: 15px;
+}
+
+ 
+article#skills p img {
+		border: 0;
+		display: inline-block;
+		position: relative;
+		width:20%;
+		border-radius: 5px;
+}  
+
+
+
+
+/* Video */
+
+.CustomVideoContent {
+	border: 0;
+	display: inline-block;
+	position: relative;
+	width:75%;
+	border-radius: 5px;
+}
+.CustomVideoContentFiftyPerc {
+	border: 0;
+	display: inline-block;
+	position: relative;
+	width:50%;
+	border-radius: 5px;
+}
+.CustomVideoContentTwentyPerc {
+	border: 0;
+	display: inline-block;
+	position: relative;
+	width:20%;
+	border-radius: 5px;
+}	
+    
+.CustomImageHomeHeadingTopRounded {
+									width: 50%;
+									border: white;
+									border-style: solid;
+									border-width: 5px;
+									border-radius: 15px;
+									opacity: 0.7;
+									background-color: white;
+}
+.CustomImageHomeHeadingRounded {
+									width: 20%;
+									border: white;
+									background-color:white;
+									border-style: solid;
+									border-width: 5px;
+									border-radius: 5px;
+									opacity:0.7 
+}
+.CustomParagraphContentHeading {
+    font-family: monospace;
+    color: #250606;
+    padding-top: 10px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
